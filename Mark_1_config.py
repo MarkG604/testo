@@ -1,7 +1,6 @@
 
-# BOT_TOKEN ='6831690029:AAFaIDKUw5-Swvx5A2QowSaT2Z1sIp49uek'
-BOT_TOKEN = '6974338167:AAEqiox57ZRmzmEPbwtXLxImuheMCtnKys4'
-admin_id = 1505389685
+BOT_TOKEN = 
+admin_id = 
 
 
 
